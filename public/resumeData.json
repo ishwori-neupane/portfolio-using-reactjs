@@ -1,0 +1,116 @@
+{
+  "main": [{
+    "name": "Ishwori Neupane",
+    "occupation": "Student of BEIT(Bachelor of Engineering in Information Technology)",
+    "description": "Learning to freelance.",
+    "image": "https://scontent.fktm3-1.fna.fbcdn.net/v/t1.6435-9/72649862_564224424326054_895375504394158080_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=GUV4lHa_kGcAX_4Yzz1&_nc_ht=scontent.fktm3-1.fna&oh=626f710393e5e7960a1bf38512c872c8&oe=612738C9",
+    "bio": "My name is Ishwori, I'm a Enginnering student at Cosmos college located at Lalitpur. Currently I'm learning Reactjs  with Clever Programmer, Sonny (#reactPapa) ",
+    "contactmessage": "Get in touch with me to receive further details, about me or anything else.",
+    "email": "ishworineupane135@gmail.com",
+    "resumedownload":"http://timbakerdev.com",
+    "street": "Mid Baneshwor",
+      "city": "Kathmandu",
+      "state": "Nepal",
+      "zip": "ABC 123",
+      "phone": "9841957300"}],
+  
+    "website":[{"name": "http://www.timbakerdev.com"}],
+
+    "resumedownload": [{"name":"http://timbakerdev.com"}],
+  "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/EESHWOREE/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCorUgN9tP026XhqQCnch1Zw",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jeevika135/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "gitlab",
+        "url": "https://gitlab.com/Ishwori/",
+        "className": "fa fa-github"
+      }
+    ]
+  ,
+
+    "education": [
+      {
+        "school": "IndraDhanush && Liverpool International College",
+        "degree": "+2 Science",
+        "graduated": "January 2018",
+        "description": "Graduated with Distinction"
+      }],
+    "work": [
+      {
+        "company": "Cosmos College",
+        "title": "Student",
+        "years": "2019-Present",
+        "description": "Learning by Doing."
+      }
+    ],
+    "skills": [
+      {
+        "name": "reactjs",
+        "level": "60%"
+      },
+      {
+        "name": "css",
+        "level": "50%"
+      },
+
+      {
+        "name": "html5",
+        "level": "75%"
+      }
+    ]
+  ,
+  
+    "projects": [
+      {
+        "title": "MERN Stack WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "images/portfolio/whatsapp-mern.jpeg"
+      },
+      {
+        "title": "MERN Stack TikTok Clone",
+        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "images/portfolio/tiktok-mern.jpeg"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "images/portfolio/facebook-clone.png"
+      },
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "images/portfolio/airbnb-clone.jpeg"
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "images/portfolio/netflix-clone.jpeg"
+      }
+    ]
+  ,
+
+    "testimonials": [
+      {
+        "text": "Your dream is not an iillusion , it is really a decorated vision that may come in true to reach in right destination ....",
+        "user": "Bir Bahadur Ghale"
+      },
+      {
+        "text": "Never give up your passion. You are the one who can and you truly deserve it to be that.",
+        "user": "Bishnu kheral"
+      }
+    ]
+  
+}
